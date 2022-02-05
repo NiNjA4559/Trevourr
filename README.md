@@ -1,0 +1,2 @@
+# Trevourr
+A discord bot
