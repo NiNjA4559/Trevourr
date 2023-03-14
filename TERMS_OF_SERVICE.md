@@ -4,7 +4,7 @@ The use of this application ("Bot", "Trevourr") in a server requires the collect
 
 ## Access to Data
 
-Access to Data is only permitted to Bot's developers, and only in the scope required for the development, testing, and implementation of features for Bot. Data is not sold, provided to, or shared with any third party, except where required by law or a Terms of Service agreement. You can view the data upon request from DON#4830(783581287269007371).
+Access to Data is only permitted to Bot's developers, and only in the scope required for the development, testing, and implementation of features for Bot. Data is not sold, provided to, or shared with any third party, except where required by law or a Terms of Service agreement. You can view the data upon request from DON#3372(783581287269007371).
 
 ## Storage of Data
 
