@@ -12,7 +12,7 @@ Data is stored in a MongoDB database. The database is secured to prevent externa
 
 ## User Rights
 
-At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through our [Discord Server](http://trevourr.ga/support). You have the right to request the removal of relevant Data.
+At any time, you have the right to request to view the Data pertaining to your Discord account. You may submit a request through our [Discord Server](http://trevourr.xyz/support). You have the right to request the removal of relevant Data.
 
 ## Underage Users
 
@@ -20,4 +20,4 @@ The use of the Bot is not permitted for minors under the age of 13, or under the
 
 ## Questions
 
-If you have any questions or are concerned about what data might be being stored from your account message DON#4830(783581287269007371) over Discord. For more information check the [Discord Terms Of Service](https://discord.com/terms).
+If you have any questions or are concerned about what data might be being stored from your account message DON#3372(783581287269007371) over Discord. For more information check the [Discord Terms Of Service](https://discord.com/terms).
